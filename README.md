@@ -1,0 +1,1 @@
+This is just a collection of small plugins I've made in my spare time. Nothing fancy—just tools and features that I find handy for future projects. If you stumble upon this and think something might be useful, feel free to download and use them in your own stuff. I'll be adding to it whenever I get bored.
