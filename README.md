@@ -11,3 +11,5 @@ Shakify adds a "Realistic" camera movement for the player when staying still, wa
 Customizable Storage Units adds exactly what you think it would. It adds storage units for your game to make it easier to decorate your map. This is all replicated (I think) so it should all work in multiplayer if you are using random rotations. It also allows different hues to be set before you start the game for different colours. This is a simple slider to get the colour you like. I may in the future make it so that the hue can be randomized on the start of the game.
 
 ![image](https://github.com/user-attachments/assets/da1fef40-bb9a-4cd5-846d-23b0810e1b9f)
+
+Hopefully the containers are pretty easy to understand in the game. It is just sliders and buttons to mess around with to get your desired result.
