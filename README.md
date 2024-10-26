@@ -13,3 +13,4 @@ Customizable Storage Units adds exactly what you think it would. It adds storage
 ![image](https://github.com/user-attachments/assets/da1fef40-bb9a-4cd5-846d-23b0810e1b9f)
 
 Hopefully the containers are pretty easy to understand in the game. It is just sliders and buttons to mess around with to get your desired result.
+P.S, In that screenshot, it shows that the ground inside of the container is wrong. I have fixed this by masking the floor area, but that screenshot is older than the updated version. 
