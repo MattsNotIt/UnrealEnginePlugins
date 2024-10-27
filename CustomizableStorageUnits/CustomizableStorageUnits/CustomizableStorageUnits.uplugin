@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "CustomizableStorageUnits",
+	"Description": "Replicated Storage Units. Game ready. Includes Optimized (auto gen) LODS. Very Customizable",
+	"Category": "Other",
+	"CreatedBy": "MattsNotIt",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": true,
+	"Installed": true
+}
